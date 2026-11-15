@@ -9,6 +9,9 @@
 - pip install pytest
 - pip install selenium
 - pip install webdriver-manager
+- pip install allure-pytest
+- pip install requests
+- pip install sqlalchemy
 3. Запустить тесты 'pytest'
 
 ### Стек:
